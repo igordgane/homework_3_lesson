@@ -54,7 +54,7 @@ p {
     text-align: center;
     color: white;
     font-size: 18px;
-    font-family: 'Mariad pro', sans-serif; /*задаем параметры текста*/
+    font-family: 'rozha_oneregular', sans-serif; /*задаем параметры текста*/
     vertical-align: middle;
  }
 
@@ -72,7 +72,7 @@ p {
     text-align: center;
     color: white;
     font-size: 18px;
-    font-family: 'Mariad pro', sans-serif; /*задаем параметры текста*/
+    font-family: 'rozha_oneregular', sans-serif; /*задаем параметры текста*/
     vertical-align: middle;
 }
 
@@ -108,7 +108,7 @@ p {
     text-align: center;
     color: black;
     font-size: 18px;
-    font-family: 'Mariad pro', sans-serif; /*задаем параметры текста*/
+    font-family: 'rozha_oneregular', sans-serif; /*задаем параметры текста*/
     vertical-align: middle;
 }
 
@@ -125,7 +125,7 @@ p {
     text-align: right;
     color: black;
     font-size: 14px;
-    font-family: 'Mariad pro', sans-serif; /*задаем параметры текста*/
+    font-family: 'rozha_oneregular', sans-serif; /*задаем параметры текста*/
     vertical-align: middle;
 }
 
@@ -142,7 +142,7 @@ p {
     text-align: center;
     color: black;
     font-size: 18px;
-    font-family: 'Mariad pro', sans-serif; /*задаем параметры текста*/
+    font-family: 'rozha_oneregular', sans-serif; /*задаем параметры текста*/
     vertical-align: middle;
 }
 
@@ -170,7 +170,7 @@ p {
     margin-left: 0px;
     color: black;
     font-size: 15px;
-    font-family: 'Mariad pro', sans-serif; /*задаем параметры текста*/
+    font-family: 'slabo_27pxregular', sans-serif; /*задаем параметры текста*/
    
 }
 
@@ -192,7 +192,7 @@ p {
     margin-left: 0px;
     color: black;
     font-size: 15px;
-    font-family: 'Mariad pro', sans-serif; /*задаем параметры текста*/
+    font-family: 'slabo_27pxregular', sans-serif; /*задаем параметры текста*/
     text-indent: 24px;
     
 }
@@ -213,7 +213,7 @@ p {
     margin-left: 0px;
     color: black;
     font-size: 15px;
-    font-family: 'Mariad pro', sans-serif; /*задаем параметры текста*/
+    font-family: 'slabo_27pxregular', sans-serif; /*задаем параметры текста*/
     text-indent: 36px;
     
 }
@@ -251,7 +251,7 @@ p {
 .container_23 {
     display: inline-block;
     font-size: 15px;
-    font-family: 'Mariad pro', sans-serif; 
+    font-family: 'slabo_27pxregular', sans-serif; */
    
 }
 
